@@ -1,4 +1,4 @@
-# Categorising Buildings in Lausanne Based on Façade Material
+# Categorising Buildings in Lausanne Based on Facade Material
 
 ## Project Description
 
