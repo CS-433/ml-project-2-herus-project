@@ -31,7 +31,7 @@ In this GitHub repository, you will find the following files :
 - **dataset** : The dataset directory contains the collected building images utilized in the project's analysis.
 - **materials** : File containing additional image resources of materials corresponding to the five classes.
 - **images_test** : It includes supplementary images used for final testing, serving as illustrative examples.
-- **illustrations** : The visual image file to illustrate the explanations and concepts presented in the notebook.
+- **illustrations** : Visual image file to illustrate the explanations and concepts presented in the notebook.
 - **report** : Detailed document that describes the conclusions, hypotheses, assertions, findings and explains the thought process behind the implementation of the project, without including code.
 
 Each of these files serves a specific, well-defined purpose.
