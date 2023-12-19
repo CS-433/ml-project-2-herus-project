@@ -34,7 +34,7 @@ In this GitHub repository, you will find the following files :
 - **illustrations** : Visual image file to illustrate the explanations and concepts presented in the notebook.
 - **report** : Detailed document that describes the conclusions, hypotheses, assertions, findings and explains the thought process behind the implementation of the project, without including code.
 
-Each of these files serves a specific, well-defined purpose.
+The previously mentioned files, which are not present in this GitHub repository, are available via the following link : [insert link here].
 
 ## Data Collection
 
