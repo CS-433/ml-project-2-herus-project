@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Our project, in collaboration with HERUS (Laboratory for Human-Environment Relations in Urban Systems) aims to classify buildings in Lausanne into five categories based on the construction materials of their facades: brick, concrete, mixture, other and stone. Our main mission is to provide essential data that will guide future development and transformation projects of the built environment of Lausanne, with a view to meeting the needs of the city by 2050.
+Our project, in collaboration with HERUS (Laboratory for Human-Environment Relations in Urban Systems) aims to classify buildings in Lausanne into five categories based on the construction materials of their facades : brick, concrete, mixture, other and stone. Our main mission is to provide essential data that will guide future development and transformation projects of the built environment of Lausanne, with a view to meeting the needs of the city by 2050.
 
 ## Prerequisites
 
