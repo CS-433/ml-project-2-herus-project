@@ -82,6 +82,10 @@ This comprehensive analysis enables us to select the most suitable model and par
 
 In this section, our main goal is to evaluate, as an example, the performance of the best model using a set of test images from the test_images dataset. The goal is to evaluate the model's ability to accurately classify these test images into their respective classes. Through this evaluation process, we aim to provide examples of image evaluations performed by the model, helping us determine whether they correctly classify images into the appropriate categories or not.
 
+## Instructions
+
+To train the model, follow these simple instructions. First, make sure you have installed the necessary libraries and run the first two import cells in the notebook. Then you can run the code in sequence, ideally from the bottom up, to follow the chronological flow of the project. However, you have the option to skip the "Data Collection" section because images collected from the Google Street View API are not used due to their lack of relevance. You can start execution from the "Data Preprocessing" section. Be sure to configure the necessary settings before you begin, such as file paths. For a more detailed understanding of the project, view the report.
+
 ## Authors
 
 This work was carried out by Youssef Belghmi and Hamza Morchid, Master Data Science students at EPFL, as part of the semester project in the Machine Learning subject (CS-433).
